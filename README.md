@@ -29,6 +29,4 @@ BetterDevelNext — это высокоэффективная и интуити�
 
 Рекомендуется всегда скачивать последние версии для получения наиболее стабильного и оптимизированного опыта.
 
-| Windows 7+ Setup | | [x64](https://github.com/timinside/BetterDevelNext/releases/) |
-
-
+### [Скачать последнюю версию](https://github.com/timinside/BetterDevelNext/releases/)
