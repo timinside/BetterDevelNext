@@ -1,0 +1,38 @@
+;aiu;
+
+[17.1.5]
+Name = BetterDevelNext
+ProductVersion = 17.1.5
+URL = https://github.com/timinside/BetterDevelNext/releases/latest/download/BetterDevelNextSetup.exe
+Size = 4941894
+ReleaseDate = 09/08/2025
+SHA256 = DCA5CF1BB3B01C1D229E3B6509991D618275630097F6AAE9AFF1CBBB07FCEF1E
+MD5 = 728ebd58d29594e4215afb577e9d20d4
+ServerFileName = BetterDevelNext.exe
+Flags = NoCache
+RegistryKey = HKUD\Software\bbzer0\BetterDevelNext\Version
+Version = 17.1.5
+Description = ???????? ?????
+Feature = ???? 1 
+Enhancement = ???? ????? ???? ??????
+BugFix = ????? ?? ?????
+AutoCloseApplication = [APPDIR]BetterDevelNext.exe|;;NoRestart
+
+[17.1.0]
+Name = BetterDevelNext
+ProductVersion = 17.1.0
+URL = https://github.com/timinside/BetterDevelNext/releases/latest/download/BetterDevelNextSetup.exe
+Size = 4941894
+ReleaseDate = 08/08/2025
+SHA256 = DCA5CF1BB3B01C1D229E3B6509991D618275630097F6AAE9AFF1CBBB07FCEF1E
+MD5 = 728ebd58d29594e4215afb577e9d20d4
+ServerFileName = BetterDevelNext.exe
+Flags = NoCache
+RegistryKey = HKUD\Software\bbzer0\BetterDevelNext\Version
+Version = 17.1.0
+Description = ???????? ?????
+Feature = ???? 222
+Feature1 = 1 vvv 
+Enhancement = ???? ????? ???? ??????
+BugFix = ????? ?? ?????
+AutoCloseApplication = [APPDIR]BetterDevelNext.exe|;;NoRestart
