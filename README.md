@@ -31,7 +31,11 @@
 Рекомендуется всегда скачивать последние версии для получения наиболее стабильного и оптимизированного опыта.
 
 ### 📥 [Скачать последнюю версию (.exe)](https://github.com/timinside/BetterDevelNext/releases/latest/download/BetterDevelNextSetup.exe)
+<a href='https://betterdevelnext.en.uptodown.com/windows' title='Download BetterDevelNext' >
+                <img src='https://stc.utdstc.com/img/mediakit/download-gio-small-b.png' alt='Download BetterDevelNext'>
+                </a>
 
+                
 **Инструкция по установке:**
 1. Скачайте установщик по ссылке выше.
 2. Запустите скачанный файл `BetterDevelNextSetup.exe`.
