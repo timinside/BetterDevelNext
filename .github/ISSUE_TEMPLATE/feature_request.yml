@@ -1,0 +1,72 @@
+name: 💡 Feature request / Wish
+description: Suggest an idea or improvement for FlaxyIDE.
+title: "[Wish]: "
+labels: ["enhancement", "wishlist"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea that would make FlaxyIDE better? Tell us about it! Popular requests (👍) get prioritized.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched existing issues and the Wishlist in the README, and this idea is not listed yet.
+          required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the situation or frustration behind your idea.
+      placeholder: I often have to... and it would be great if...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Your proposed solution
+      description: How do you picture it working?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you considered
+      description: Any workarounds or other approaches you have tried or thought about.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Interface / themes
+        - Code editor
+        - Visual designer
+        - Standard library
+        - Build / compilation
+        - Performance
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How important is this to you?
+      options:
+        - Nice to have
+        - Would use it often
+        - Blocks my workflow
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Mockups, screenshots, or links to similar features in other tools.
