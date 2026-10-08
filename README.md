@@ -17,7 +17,15 @@
 ---
 >[!Warning]
 >Current build of this project is still having old name - BetterDevelNext, and old icon.
+>
 >It's the same project!
+
+>[!Caution]
+>This project is still moving to English language, IDE is currently support ~20% of English.
+>
+>That is not good, If you know only English language.
+>
+>Soo.. please, wait If you can.
 
 ## ✨ What is FlaxyIDE?
 
