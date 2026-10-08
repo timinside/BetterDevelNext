@@ -1,7 +1,7 @@
 <div align="center">
   <img width="90" height="90" alt="FlaxyIDE Logo" src="https://github.com/user-attachments/assets/f6ca8f00-995c-41c0-b7a7-68a56b919783" />
 
-  # FlaxyIDE
+  # FlaxyIDE (before BetterDevelNext)
 
   ### Design it. Code it. Ship it.
   **A fast, friendly IDE for building Windows apps, powered by DevelNext and FXEdition.**
@@ -15,6 +15,9 @@
 </div>
 
 ---
+>[!Warning]
+>Current build of this project is still having old name - BetterDevelNext, and old icon.
+>It's the same project!
 
 ## ✨ What is FlaxyIDE?
 
