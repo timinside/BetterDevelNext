@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="90" height="90" alt="FlaxyIDE Logo" src="https://github.com/user-attachments/assets/f6ca8f00-995c-41c0-b7a7-68a56b919783" />
+  <img width="90" height="90" alt="FlaxyIcon" src="https://github.com/timinside/BetterDevelNext/blob/main/FlaxyIcon.png" />
 
   # FlaxyIDE (before BetterDevelNext)
 
