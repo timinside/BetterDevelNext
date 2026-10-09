@@ -1,32 +1,26 @@
 <div align="center">
-  <img width="90" height="90" alt="FlaxyIcon" src="https://github.com/timinside/BetterDevelNext/blob/main/FlaxyIcon.png" />
+  <img width="90" height="90" alt="FlaxyIcon" src="https://raw.githubusercontent.com/timinside/BetterDevelNext/main/FlaxyIcon.png" />
 
-  # FlaxyIDE <sub>(before BetterDevelNext)</sub>
+  # FlaxyIDE
+
+ $\color{gray}{\normalsize\textsf{formerly BetterDevelNext}}$
 
   ### Design it. Code it. Ship it.
   **A fast, friendly IDE for building Windows apps, powered by DevelNext and FXEdition.**
 
-  [![Latest release](https://img.shields.io/github/v/release/timinside/BetterDevelNext?style=for-the-badge&color=7c4dff)](https://github.com/timinside/BetterDevelNext/releases/latest)
-  [![Downloads](https://img.shields.io/github/downloads/timinside/BetterDevelNext/total?style=for-the-badge&color=00bfa5)](https://github.com/timinside/BetterDevelNext/releases)
-  [![Platform](https://img.shields.io/badge/platform-Windows-0078d6?style=for-the-badge)](#-get-flaxyide)
-  [![Stars](https://img.shields.io/github/stars/timinside/BetterDevelNext?style=for-the-badge&color=ffb300)](https://github.com/timinside/BetterDevelNext/stargazers)
-
-  [**Download**](#-get-flaxyide) · [**Features**](#-features) · [**How it works**](#-how-it-works) · [**Wishlist**](#-wishlist) · [**FAQ**](#-faq) · [**Author**](#-author--socials)
 </div>
 
 ---
 
->[!Warning]
->Current build of this project is still having old name - BetterDevelNext, and old icon.
->
->It's the same project!
+> [!NOTE]
+> The current build still uses the old name, **BetterDevelNext**, and the old icon.
+> 
+> It's the same project, just rebranded!
 
->[!Caution]
->This project is still moving to English language, IDE is currently support ~20% of English.
->
->That is not good, If you know only English language.
->
->Soo.. please, wait If you can.
+> [!IMPORTANT]
+> FlaxyIDE is still being translated into English. The interface is currently about 20% translated, so some parts may appear in Russian.
+> 
+> If you only speak English, thank you for your patience. Full English support is on the way!
 
 ## ✨ What is FlaxyIDE?
 
@@ -47,14 +41,7 @@ No heavyweight setup. No maze of menus. Whether you are writing your very first 
 
 ## 🔄 How it works
 
-```mermaid
-flowchart LR
-    A[🆕 Create project] --> B[🎨 Design the UI]
-    B --> C[⌨️ Write the logic]
-    C --> D[▶️ Run and test]
-    D --> E[📦 Build .exe]
-    E --> F[🌍 Share it]
-```
+**🆕 Create** ➜ **🎨 Design** ➜ **⌨️ Code** ➜ **▶️ Test** ➜ **📦 Build** ➜ **🌍 Share**
 
 1. **Create** a new project from the project manager.
 2. **Design** your windows with the visual builder.
@@ -65,11 +52,11 @@ flowchart LR
 
 Always grab the latest release for the most stable and optimized experience.
 
-### 👉 [Download the latest version (.exe)](https://github.com/timinside/BetterDevelNext/releases/latest/download/BetterDevelNextSetup.exe)
+<div align="center">
 
-<a href='https://betterdevelnext.en.uptodown.com/windows' title='Download BetterDevelNext' >
-  <img src='https://stc.utdstc.com/img/mediakit/download-gio-small-b.png' alt='Download BetterDevelNext'>
-</a>
+<a href="https://github.com/timinside/BetterDevelNext/releases/latest" title="Download from GitHub"><img src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" alt="Download from GitHub" height="58" align="middle" /></a>&nbsp;&nbsp;<a href="https://betterdevelnext.en.uptodown.com/windows" title="Download from Uptodown"><img src="https://stc.utdstc.com/img/mediakit/download-gio-small-b.png" alt="Download from Uptodown" height="58" align="middle" /></a>
+
+</div>
 
 ### Installation in 4 steps
 
@@ -77,11 +64,6 @@ Always grab the latest release for the most stable and optimized experience.
 2. Run `BetterDevelNextSetup.exe`.
 3. Follow the on-screen instructions. The installer will offer to install **bbruntime**, which FlaxyIDE needs to run correctly (skipped automatically if you already have it).
 4. Wait for the installation to finish and launch the program.
-
-<!--
-## 🖼️ Screenshots
-Add screenshots of the editor, the visual designer, and a built app here.
--->
 
 ## 💡 Wishlist
 
@@ -101,6 +83,7 @@ FlaxyIDE is shaped by the people who use it. Here is what is on the radar, and w
 - [ ]  Adding Python projects
 - [ ]  Adding Web projects
 - [ ]  More Project Settings to make it more simple
+- [ ]  Add full Linux support
 
 ### Make a wish
 
