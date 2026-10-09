@@ -1,7 +1,7 @@
 <div align="center">
   <img width="90" height="90" alt="FlaxyIcon" src="https://github.com/timinside/BetterDevelNext/blob/main/FlaxyIcon.png" />
 
-  # FlaxyIDE (before BetterDevelNext)
+  # FlaxyIDE <sub>(before BetterDevelNext)</sub>
 
   ### Design it. Code it. Ship it.
   **A fast, friendly IDE for building Windows apps, powered by DevelNext and FXEdition.**
@@ -11,10 +11,11 @@
   [![Platform](https://img.shields.io/badge/platform-Windows-0078d6?style=for-the-badge)](#-get-flaxyide)
   [![Stars](https://img.shields.io/github/stars/timinside/BetterDevelNext?style=for-the-badge&color=ffb300)](https://github.com/timinside/BetterDevelNext/stargazers)
 
-  [**Download**](#-get-flaxyide) · [**Features**](#-features) · [**How it works**](#-how-it-works) · [**Wishlist**](#-wishlist) · [**FAQ**](#-faq)
+  [**Download**](#-get-flaxyide) · [**Features**](#-features) · [**How it works**](#-how-it-works) · [**Wishlist**](#-wishlist) · [**FAQ**](#-faq) · [**Author**](#-author--socials)
 </div>
 
 ---
+
 >[!Warning]
 >Current build of this project is still having old name - BetterDevelNext, and old icon.
 >
@@ -133,6 +134,25 @@ Yes. Projects compile into a standalone executable, so you can distribute them w
 
 Open an issue in the [Issues](https://github.com/timinside/BetterDevelNext/issues) tab with a short description and steps to reproduce.
 </details>
+
+## 🌐 Author & Socials
+
+Want to follow the development, see what **bbzer0** is working on, and get news about FlaxyIDE and other projects? Join the Telegram channel. Everyone is welcome!
+
+<table>
+  <tr>
+    <td align="center" width="64">
+      <a href="https://t.me/bbzer0_community">
+        <img src="https://github.com/user-attachments/assets/6a992317-a16b-4f6e-a596-81aad27f5d2d" width="32" height="32" alt="Telegram" />
+      </a>
+    </td>
+    <td>
+      <b><a href="https://t.me/bbzer0_community"><i>my name is bbzer0</i> on Telegram</a></b><br />
+      Information about my projects, updates, and announcements.<br />
+      <sub>🇷🇺 The channel is in Russian. Please join us!</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🙏 Credits
 
