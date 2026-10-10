@@ -1,6 +1,6 @@
 <div align="center">
 
-  [English](README.md) · **Русский**
+  [English](https://github.com/timinside/BetterDevelNext) · **Русский**
 
   <img width="90" height="90" alt="FlaxyIcon" src="https://raw.githubusercontent.com/timinside/BetterDevelNext/main/FlaxyIcon.png" />
 
