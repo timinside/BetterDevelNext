@@ -1,4 +1,7 @@
 <div align="center">
+
+  **English** · [Русский](README_RU.md)
+  
   <img width="90" height="90" alt="FlaxyIcon" src="https://raw.githubusercontent.com/timinside/BetterDevelNext/main/FlaxyIcon.png" />
 
   # FlaxyIDE
