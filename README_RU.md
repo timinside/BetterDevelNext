@@ -6,7 +6,7 @@
 
   # FlaxyIDE
 
- $\color{gray}{\normalsize\textsf{ранее BetterDevelNext}}$
+   <h6 align="center">раньше BetterDevelNext</h6>
 
   ### Design it. Code it. Ship it.
   **Быстрая и удобная IDE для создания Windows-приложений на базе DevelNext и FXEdition.**
