@@ -72,20 +72,20 @@ Always grab the latest release for the most stable and optimized experience.
 
 FlaxyIDE is shaped by the people who use it. Here is what is on the radar, and where you can add your own ideas.
 
-### On the radar
+### On the radar (only W.I.P version, that is available only for me)
 
-- [ ]  Theme switcher with light, dark, and custom color schemes
+- [x]  Theme switcher with light, dark, and custom color schemes
 - [ ]  Smarter code autocompletion and inline error hints
-- [ ]  Plugin system for community extensions
+- [x]  Plugin system for community extensions
 - [ ]  Project templates for common application types
 - [ ]  Built-in Git support (commit, push, pull, diff)
 - [ ]  Full English language support
 - [ ]  Built-in documentation and quick-reference panel
 - [ ]  Adding own GitHub-like system (public projects)
-- [ ]  Creating own forum
+- [x]  Creating own forum
 - [ ]  Adding Python projects
 - [ ]  Adding Web projects
-- [ ]  More Project Settings to make it more simple
+- [x]  More Project Settings to make it more simple
 - [ ]  Add full Linux support
 
 ### Make a wish
